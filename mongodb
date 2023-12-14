@@ -1,0 +1,64 @@
+{
+    "_id" : ObjectId("657aad55244233281d19fad1"),
+    "deviceId" : "QXLI1J3006093",
+    "lineId" : "QXLI1J3006093",
+    "date" : ISODate("2023-12-14T07:23:01.784+0000"),
+    "lastContact" : ISODate("2023-12-14T07:12:56.127+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad5c993e91391a87b902"),
+    "deviceId" : "QXLI104052939",
+    "lineId" : "042207741",
+    "date" : ISODate("2023-12-14T07:23:08.258+0000"),
+    "lastContact" : ISODate("2023-12-14T07:12:25.773+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad66db9eb7256d0260c3"),
+    "deviceId" : "QXLI1J5053976",
+    "lineId" : "065953743",
+    "date" : ISODate("2023-12-14T07:23:18.441+0000"),
+    "lastContact" : ISODate("2023-12-14T07:12:50.140+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad818670bb7e2d0d797e"),
+    "deviceId" : "TR7J125010139",
+    "lineId" : "043426659",
+    "date" : ISODate("2023-12-14T07:23:45.081+0000"),
+    "lastContact" : ISODate("2023-12-14T07:13:03.506+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad84cd9c608e6c4233bd"),
+    "deviceId" : "QXLI314017201",
+    "lineId" : "QXLI314017201",
+    "date" : ISODate("2023-12-14T07:23:48.780+0000"),
+    "lastContact" : ISODate("2023-12-14T07:13:15.064+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad8e9cfcfa8a46495d91"),
+    "deviceId" : "QXLI1J1010475",
+    "lineId" : "QXLI1J1010475",
+    "date" : ISODate("2023-12-14T07:23:58.097+0000"),
+    "lastContact" : ISODate("2023-12-14T07:13:37.954+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad901cd6dbbf880c84a6"),
+    "deviceId" : "J2105042956",
+    "lineId" : "065742517",
+    "date" : ISODate("2023-12-14T07:24:00.162+0000"),
+    "lastContact" : ISODate("2023-12-14T07:13:39.464+0000"),
+    "event" : "KeepAliveDown"
+}
+{
+    "_id" : ObjectId("657aad91244233281d1a410b"),
+    "deviceId" : "ET2FF3FFF7248",
+    "lineId" : "ET2FF3FFF7248",
+    "date" : ISODate("2023-12-14T07:24:01.777+0000"),
+    "lastContact" : ISODate("2023-12-14T07:12:02.713+0000"),
+    "event" : "KeepAliveDown"
+}
